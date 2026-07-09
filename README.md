@@ -20,7 +20,7 @@ A modern, animated Tic-Tac-Toe game featuring an unbeatable AI opponent powered 
 
 **Tech:** React · Vite · JavaScript · HTML5 · CSS3<br>
 
-🌐 [Live Demo](https://anubhav-13579.github.io/Tic-Tac-Toe-/) · <br>🔗 [View Code](https://github.com/anubhav-13579/Tic-Tac-Toe-)
+🌐 [Live Demo](https://anubhav-13579.github.io/Tic-Tac-Toe-/) · <br>🔗 [View Code](https://github.com/anubhav-13579/CODSOFT/tree/main/Task%202%20Tic%20Tac%20Toe)
 
 ---
 
